@@ -1,3 +1,5 @@
+Install nerd-fonts or icons may render incorrectly!
+
 File:              >>    Folder:                
 hyprland.conf      >>    ~/.config/hypr        
 kitty.conf         >>    ~/.config/kitty        
